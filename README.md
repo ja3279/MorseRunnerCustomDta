@@ -1,4 +1,4 @@
-# MorseRunnerCustomDta
+# MorseRunner Custom Dta Files
 Contains custom `.dta` files with valid US callsign data that can be used for MorseRunner practice.
 
 * `first3_callsigns.dta` - contains just leading 3 characters of callsigns.
