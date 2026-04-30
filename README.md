@@ -1,5 +1,5 @@
 # Morse Runner Custom DTA Files
-Repository contains custom `.dta` files with valid US callsign data that can be used on [Morse Runner 1.68](https://www.dxatlas.com/MorseRunner/) practice. All callsigns are valid and active US callsigns that were active in [FCC Database](https://data.fcc.gov/download/pub/uls/complete/l_amat.zip). FCC Data was downloaded on April 29, 2026. 
+Repository contains custom `.dta` files with valid US callsign data that can be used on [Morse Runner 1.68](https://www.dxatlas.com/MorseRunner/) practice. All callsigns are valid and active US callsigns in [FCC Database](https://data.fcc.gov/download/pub/uls/complete/l_amat.zip). FCC Data was downloaded on April 29, 2026. 
 
 * `first3_US_callsigns.dta` - contains just leading 3 characters of US callsigns.
 * `first4_US_callsigns.dta` - contains just leading 4 characters of US callsigns.
