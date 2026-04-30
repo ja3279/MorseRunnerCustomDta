@@ -8,7 +8,7 @@ Contains custom `.dta` files with valid US callsign data that can be used for [M
 Replace MorseRunner's `Master.dta` file with one of these files. Ensure you save the original `Master.dta` file so that you can revert when needed.
 
 Example:
-```
+```bash
 mv Master.dta Master.dta.original
-mv first3_callsigns.dta Master.dta
+cp first3_callsigns.dta Master.dta
 ```
