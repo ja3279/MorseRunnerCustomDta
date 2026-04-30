@@ -3,7 +3,7 @@ Repository contains custom `.dta` files with valid US callsign data that can be 
 
 * `first3_US_callsigns.dta` - contains just leading 3 characters of US callsigns.
 * `first4_US_callsigns.dta` - contains just leading 4 characters of US callsigns.
-* `all_US_callsigns.dta` contains all US callsigns at original length.
+* `all_US_callsigns.dta` contains all US callsigns at original lengths.
 
 Replace Morse Runner's `Master.dta` file with one of these files. Ensure you save and backup the original `Master.dta` file so that you can revert when needed.
 
